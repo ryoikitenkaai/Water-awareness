@@ -98,8 +98,3 @@ Water-awareness/
 This project was created at **Lovely Professional University (LPU)** as a web development and social awareness initiative. It highlights water scarcity challenges in India with a focus on research-backed solutions.
 
 ---
-
-## License
-
-For academic and educational use only.  
-© 2024 Water Availability Awareness. All rights reserved.
